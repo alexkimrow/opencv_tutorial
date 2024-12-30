@@ -1,6 +1,7 @@
 # OpenCV University Bootcamp
 
-This is a free bootcamp offered by OpenCV University. More information can be found at opencv.org. 
+In order to explore and learn more about modern computer vision techniques, I have enrolled in the OpenCV University Bootcamp. This repository contains all the materials, code examples, and projects that I will be working on throughout the bootcamp to enhance my skills in image and video processing using OpenCV and related technologies.
+More information can be found at opencv.org. 
 
 ## Technologies Used
 
